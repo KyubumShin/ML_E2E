@@ -1,0 +1,806 @@
+Restaurant	Location	Cuisines	AverageCost	MinimumOrder	Rating	Votes	Reviews	DeliveryTime
+ID6321	"FTI College, Law College Road, Pune"	"Fast Food, Rolls, Burger, Salad, Wraps"	200	50	3.5	12	4	30
+ID2882	"Sector 3, Marathalli"	"Ice Cream, Desserts"	100	50	3.5	11	4	30
+ID1595	Mumbai Central	"Italian, Street Food, Fast Food"	150	50	3.6	99	30	65
+ID5929	"Sector 1, Noida"	"Mughlai, North Indian, Chinese"	250	99	3.7	176	95	30
+ID6123	"Rmz Centennial, I Gate, Whitefield"	"Cafe, Beverages"	200	99	3.2	521	235	65
+ID5221	"Rmz Centennial, I Gate, Whitefield"	"South Indian, North Indian, Chinese"	150	50	3.8	46	18	30
+ID3777	Mumbai Central	"Beverages, Fast Food"	150	50	3.7	108	31	30
+ID745	Delhi UniversityGTB Nagar	"Chinese, Thai, Asian"	650	50	4.0	1731	1235	45
+ID2970	Delhi UniversityGTB Nagar	"Mithai, Street Food"	100	50	3.9	110	26	30
+ID3474	"Sector 1, Noida"	"Fast Food, North Indian, Rolls, Chinese, Momos, Mughlai"	200	50	3.9	562	294	65
+ID5159	Mumbai Central	"North Indian, Chinese, Mughlai"	350	50	3.8	186	61	30
+ID1696	"Yerawada, Pune, Maharashtra"	"Chinese, Thai, Indonesian, Italian"	800	50	4.2	1693	1239	45
+ID1156	"Sector 1, Noida"	"Burger, Fast Food, Desserts, Beverages"	150	50				30
+ID354	Delhi UniversityGTB Nagar	Beverages	50	0	3.8	184	128	45
+ID6891	"Delhi Administration Flats, Timarpur"	Fast Food	100	50	3.5	23	5	30
+ID6406	"Moulali, Kolkata"	"Biryani, Mughlai"	100	50	3.6	353	53	30
+ID2141	"Sector 1, Noida"	Italian	100	50				30
+ID3355	"Dockyard Road, Mumbai CST Area"	"Chinese, North Indian, South Indian, Fast Food"	200	50	3.7	139	47	30
+ID5262	Pune University	"Kerala, Bihari"	150	50				30
+ID8148	"Gora Bazar, Rajbari, North Dumdum, Kolkata"	South Indian	100	50	3.7	159	46	30
+ID1681	"DBlock, Sector 63, Noida"	"Chinese, North Indian, Rolls, Momos"	200	99	2.8	67	23	45
+ID3994	"Sector 14, Noida"	"North Indian, Rolls"	150	50	3.9	387	160	45
+ID4012	"DBlock, Sector 63, Noida"	"North Indian, Chinese"	250	50	3.0	5	2	30
+ID240	"DBlock, Sector 63, Noida"	"Biryani, North Indian"	200	99	3.7	138	26	65
+ID4751	"Sector 3, Marathalli"	"North Indian, Chinese, Fast Food"	150	50	3.2	4	1	30
+ID4944	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Desserts, Ice Cream"	100	50				45
+ID7029	"DBlock, Sector 63, Noida"	"North Indian, Chinese"	100	99	3.7	110	38	45
+ID6769	Mumbai Central	"Fast Food, South Indian, Street Food"	150	50	3.2	15	9	45
+ID5547	"Dockyard Road, Mumbai CST Area"	North Indian	150	50	3.3	44	19	45
+ID1957	"Sector 1, Noida"	"North Indian, Chinese"	200	50	3.8	18	18	30
+ID425	"Gora Bazar, Rajbari, North Dumdum, Kolkata"	North Indian	150	50	3.2	18	7	30
+ID4965	"DBlock, Sector 63, Noida"	"Cafe, Mexican, Japanese, Italian, Chinese"	400	50	4.0	189	132	30
+ID5192	"FTI College, Law College Road, Pune"	"Bakery, Fast Food, Rolls, Beverages"	200	50	3.1	279	74	45
+ID6079	"DBlock, Sector 63, Noida"	"North Indian, Chinese"	350	99	3.3	22	13	45
+ID3069	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	North Indian	100	50	4.0	581	111	30
+ID1160	"Sector 1, Noida"	"Asian, Burmese, Bubble Tea, Desserts, Salad, Tea, Beverages, Ice Cream"	600	50	4.7	914	499	45
+ID4494	Pune University	Street Food	100	50	3.4	23	7	30
+ID2139	"Moulali, Kolkata"	"Fast Food, South Indian"	100	50	3.6	105	53	30
+ID332	Delhi UniversityGTB Nagar	"Pizza, Fast Food"	200	50	3.5	305	29	45
+ID1209	"Tiretti, Kolkata"	"Cafe, Desserts"	300	50	3.6	54	34	30
+ID5285	"Sandhurst Road, Mumbai CST Area"	"Mughlai, North Indian"	200	50	4.0	1408	851	45
+ID7544	Mumbai Central	"Desserts, Beverages"	150	50	4.1	806	513	45
+ID7299	"MG Road, Pune"	"Bakery, Desserts, Beverages"	150	50	3.7	41	22	30
+ID4154	"Hyderabad Public School, Begumpet"	South Indian	100	50	3.7	100	27	45
+ID3869	"Tiretti, Kolkata"	North Indian	200	50	3.6	106	32	30
+ID6868	Majestic	"North Indian, Street Food"	200	50	3.8	37	25	30
+ID1641	"DBlock, Sector 63, Noida"	"North Indian, Chinese"	200	50	3.4	45	37	30
+ID2809	"Mico Layout, Stage 2, BTM Layout,Bangalore"	Chinese	200	50	NEW			30
+ID5022	Delhi UniversityGTB Nagar	"Chinese, Fast Food"	200	99	3.5	63	8	45
+ID4866	Delhi UniversityGTB Nagar	Lucknowi	200	50				30
+ID6857	"FTI College, Law College Road, Pune"	"South Indian, North Indian"	150	50	3.1	253	35	30
+ID3429	"FTI College, Law College Road, Pune"	"Biryani, Chinese"	150	50	3.2	4	4	30
+ID1521	"Sandhurst Road, Mumbai CST Area"	"Tea, Fast Food"	100	50	3.3	12	6	30
+ID5090	"MG Road, Pune"	"Fast Food, Italian, Beverages"	200	50	3.9	327	173	45
+ID348	"Sector 1, Noida"	"North Indian, Beverages"	250	50	3.4	49	36	30
+ID1443	"Chandni Chowk, Kolkata"	Fast Food	100	50	3.3	11	1	30
+ID8281	"MG Road, Pune"	"Street Food, Fast Food, North Indian"	150	50	2.9	8	5	45
+ID4562	Delhi UniversityGTB Nagar	Chinese	250	50	3.8	19	15	30
+ID156	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Rolls, Chinese"	100	50	3.7	18	6	30
+ID5570	"Delhi Administration Flats, Timarpur"	"South Indian, Chinese, Street Food"	100	50	3.1	7	2	30
+ID8368	"MG Road, Pune"	"North Indian, Mangalorean"	350	50	3.5	16	8	45
+ID294	"Sector 1, Noida"	"Bakery, Desserts, Fast Food"	100	50	NEW			30
+ID6967	"Yerawada, Pune, Maharashtra"	"Cafe, European, Continental, Sandwich, Salad, Healthy Food"	600	50	4.6	391	174	30
+ID2994	"Sector 3, Marathalli"	Bengali	200	50	3.5	32	23	30
+ID6369	"Sector 1, Noida"	"Bakery, Fast Food"	200	50	3.3	39	11	30
+ID7768	"Sector 14, Noida"	Fast Food	150	99	3.9	116	19	30
+ID134	"Dockyard Road, Mumbai CST Area"	Desserts	100	50	3.4	22	9	45
+ID8414	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Desserts, Beverages, American"	200	50	3.9	51	29	45
+ID2216	"Delhi High Court, India Gate"	"Chinese, Thai"	150	50	3.2	9	1	30
+ID2131	Mumbai Central	"Chinese, Fast Food, Mughlai"	300	50	3.7	128	30	45
+ID8057	"Rmz Centennial, I Gate, Whitefield"	"Cafe, Continental, Fast Food"	300	50	4.1	119	59	30
+ID3309	"DBlock, Sector 63, Noida"	"Chinese, Rolls"	150	50				30
+ID7722	"Sector 1, Noida"	"North Indian, Fast Food"	200	50	3.4	26	16	30
+ID3117	"Moulali, Kolkata"	"Mishti, Fast Food, South Indian"	100	50	4.0	381	89	65
+ID6905	Majestic	"South Indian, North Indian, Chinese, Beverages"	350	50	4.2	441	170	30
+ID3087	"Chandni Chowk, Kolkata"	"Fast Food, Bengali"	100	50				30
+ID207	"Delhi Administration Flats, Timarpur"	"Mithai, Street Food"	100	50	3.7	62	10	30
+ID5095	"Rmz Centennial, I Gate, Whitefield"	"Beverages, Desserts"	100	50	3.6	7	4	30
+ID8233	Delhi UniversityGTB Nagar	Fast Food	100	50	3.6	90	31	30
+ID6205	"Sector 14, Noida"	Rolls	100	50	NEW			30
+ID7753	"Sandhurst Road, Mumbai CST Area"	"European, Continental, North Indian, Desserts"	750	50	4.3	3124	1660	45
+ID888	"DBlock, Sector 63, Noida"	"Biryani, Mughlai, North Indian"	100	50	3.5	69	37	30
+ID164	"DBlock, Sector 63, Noida"	"North Indian, Mughlai"	150	50	3.3			30
+ID2653	"Sector 14, Noida"	"North Indian, Chinese"	200	50	3.9	385	71	30
+ID2818	"MG Road, Pune"	"North Indian, Chinese"	150	99	2.8	96	41	45
+ID7520	"Sector 1, Noida"	"North Indian, Chinese"	200	50	NEW			45
+ID4849	"MG Road, Pune"	"Chinese, Pizza, Fast Food"	150	50	3.7	55	20	30
+ID4179	"DBlock, Sector 63, Noida"	North Indian	200	50	3.3	9	5	30
+ID5321	"Rmz Centennial, I Gate, Whitefield"	"Biryani, Hyderabadi, North Indian, Mughlai"	100	50	2.6			30
+ID2376	"Chatta Bazaar, Malakpet, Hyderabad"	South Indian	50	50	3.5	12	2	30
+ID3147	"Sandhurst Road, Mumbai CST Area"	"Momos, Fast Food"	150	50	3.5	85	40	30
+ID6452	"Sector 63A,Gurgaon"	"Mithai, North Indian, South Indian, Chinese, Street Food"	150	50	NEW			30
+ID5076	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"South Indian, North Indian"	100	50	3.7	27	5	30
+ID7738	"Rmz Centennial, I Gate, Whitefield"	"Continental, Beverages, Desserts"	200	50	NEW			30
+ID4942	Mumbai Central	"Fast Food, Ice Cream, Beverages"	200	50	3.8	107	47	30
+ID3468	"DBlock, Sector 63, Noida"	Fast Food	100	50	3.3	13	4	30
+ID3797	"Delhi High Court, India Gate"	Fast Food	200	50	3.3	25	16	30
+ID6224	"DBlock, Sector 63, Noida"	Chinese	100	50	3.5	24	1	30
+ID1124	Delhi UniversityGTB Nagar	"Burger, Fast Food"	100	50				30
+ID6637	Delhi Cantt.	Mughlai	150	50	2.8	7	3	30
+ID8434	"Sector 3, Marathalli"	Chinese	300	99	2.9	393	191	65
+ID2962	Pune University	"North Indian, Rolls, Chinese"	200	50	3.9	348	105	30
+ID6091	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Andhra, Biryani"	200	50	3.4	15	7	30
+ID2198	Majestic	Street Food	100	50	4.1	260	100	65
+ID4654	"FTI College, Law College Road, Pune"	"Burger, Fast Food"	200	50	3.9	326	106	30
+ID3712	"Dockyard Road, Mumbai CST Area"	Street Food	100	50	3.5	18	8	30
+ID1858	"Tejas Nagar Colony, Wadala West, Mumbai"	"North Indian, South Indian, Assamese, Maharashtrian, Bengali"	200	50	NEW			30
+ID4395	"DBlock, Sector 63, Noida"	"North Indian, Lucknowi"	200	50	2.8	150	89	45
+ID3814	"Delhi Administration Flats, Timarpur"	"Fast Food, Beverages"	150	50	3.7	35	21	30
+ID7226	"Sector 14, Noida"	North Indian	100	50	3.0	7	1	30
+ID2915	"MG Road, Pune"	North Indian	200	50	3.3	28	9	30
+ID5719	"Mico Layout, Stage 2, BTM Layout,Bangalore"	Pizza	200	50	3.5	87	37	45
+ID1532	"Sector 14, Noida"	"Chinese, Fast Food"	150	50	3.5	187	65	30
+ID3539	"FTI College, Law College Road, Pune"	"Desserts, Ice Cream"	100	50	2.6	28	13	30
+ID2677	"MG Road, Pune"	"North Indian, Chinese, Street Food"	150	50	2.8			30
+ID1203	"FTI College, Law College Road, Pune"	Fast Food	150	50	3.0	4		30
+ID4645	"Babarpur, New Delhi, Delhi"	"North Indian, Fast Food"	300	50	3.5	15	7	30
+ID1210	"Rmz Centennial, I Gate, Whitefield"	"Beverages, Cafe, Sandwich, Fast Food, Desserts"	250	50	3.8	118	69	45
+ID7260	"Sector 3, Marathalli"	"North Indian, Mughlai"	150	50	NEW			30
+ID1996	"Mico Layout, Stage 2, BTM Layout,Bangalore"	North Indian	150	50				30
+ID7796	"Rmz Centennial, I Gate, Whitefield"	"Street Food, Beverages"	100	50				30
+ID1324	"DBlock, Sector 63, Noida"	Bakery	200	50	3.1	12	2	30
+ID1885	Delhi Cantt.	North Indian	300	50	4.2			45
+ID2885	"Nathan Road, Mangaldas Road, Pune"	"German, Italian, Cafe"	450	50	4.3	4691	2547	45
+ID3351	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"North Indian, South Indian, Chinese, Arabian"	350	50	3.1	89	10	30
+ID5223	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	North Indian	100	50	3.9	70	9	30
+ID2093	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"North Indian, Mughlai"	150	50	3.1	9	2	30
+ID5969	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	Mithai	50	50	2.8	11	2	30
+ID4654	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Burger, Fast Food"	200	50	3.8	349	159	45
+ID8146	"MG Road, Pune"	"Finger Food, North Indian"	300	50	3.0	6	1	30
+ID7674	"DBlock, Sector 63, Noida"	"North Indian, Chinese"	250	99	4.5	143	110	65
+ID7677	"DBlock, Sector 63, Noida"	Bakery	150	50	3.2	7	3	30
+ID4484	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Fast Food, Beverages"	100	50				30
+ID669	"Delhi High Court, India Gate"	"North Indian, South Indian, Fast Food, Beverages"	150	50	3.6	81	42	30
+ID4064	Mumbai Central	Street Food	50	50	3.7	63	36	45
+ID1181	"Sector 1, Noida"	"Sandwich, Chinese, North Indian, Pizza, Rolls, Fast Food, Desserts, Beverages"	200	50	3.4	417	181	45
+ID4609	Mumbai Central	"Street Food, Fast Food"	150	50	3.4	20	16	30
+ID5401	"DBlock, Sector 63, Noida"	Chinese	150	50	4.2	124	109	30
+ID1215	Pune University	"Fast Food, Street Food, Momos"	100	50	3.3	12	1	30
+ID1773	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"North Indian, Fast Food"	200	50	2.9	47	10	45
+ID1452	"Rmz Centennial, I Gate, Whitefield"	"Street Food, Fast Food"	100	50	4.0	242	179	65
+ID5440	"Yerawada, Pune, Maharashtra"	"Italian, Beverages"	300	50	3.5	12	5	30
+ID553	"Sector 1, Noida"	Mughlai	150	50	3.4	9	2	30
+ID622	"FTI College, Law College Road, Pune"	Fast Food	100	50				30
+ID6537	"DBlock, Sector 63, Noida"	"Biryani, North Indian, Mughlai, Kebab, Rolls"	250	99	4.7	706	490	30
+ID6951	"Panjetan Colony, Malakpet, Hyderabad"	South Indian	50	50	4.0	109	28	30
+ID8413	Pune University	Desserts	150	50	4.4	584	343	45
+ID5237	"Delhi Administration Flats, Timarpur"	"Fast Food, Rolls, Beverages"	150	50	3.6	37	16	30
+ID1005	Delhi UniversityGTB Nagar	"Street Food, Fast Food"	150	50	4.3	253	118	30
+ID5181	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"North Indian, Chinese"	150	50	3.4	123	37	30
+ID1766	"Yerawada, Pune, Maharashtra"	"Chettinad, North Indian, Seafood"	200	50	4.1	1665	690	30
+ID6145	Pune University	"Ice Cream, Fast Food"	150	50	3.3	9	3	30
+ID1972	"Delhi High Court, India Gate"	"Pizza, Burger, Fast Food, Desserts"	200	50	3.9	191	72	45
+ID8614	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Biryani, Mughlai"	100	50				30
+ID308	"Rmz Centennial, I Gate, Whitefield"	"Chinese, South Indian, North Indian"	250	50	3.0	4	2	30
+ID4468	"Sector 1, Noida"	South Indian	150	50	3.5	40	6	30
+ID7468	"Yerawada, Pune, Maharashtra"	"North Indian, Street Food, Desserts"	150	50	4.0	696	296	45
+ID7299	Mumbai Central	"Bakery, Desserts"	150	50	3.8	72	33	45
+ID4827	"Sector 63A,Gurgaon"	"Chinese, Fast Food, North Indian, Momos"	200	99	4.0	334	164	45
+ID8391	"Sector 1, Noida"	"Cafe, Desserts"	200	50	NEW			30
+ID8049	"Sector 1, Noida"	"North Indian, Mughlai, Momos"	250	50	3.8	173	29	45
+ID1171	Mumbai Central	Juices	100	50	3.1	5	2	30
+ID4137	"Moulali, Kolkata"	"Desserts, Beverages"	200	50	4.1	62	50	30
+ID8129	"Tiretti, Kolkata"	"Chinese, North Indian"	100	50	3.8	85	27	30
+ID7583	"Raja Bazar, Kolkata"	"Sandwich, Italian, Desserts"	250	50	3.8	224	129	45
+ID5352	"DBlock, Sector 63, Noida"	Mughlai	200	50				30
+ID6908	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	North Indian	100	50				30
+ID1316	"Delhi High Court, India Gate"	"Cafe, Italian"	600	50	4.2	2653	1581	65
+ID3332	"Yerawada, Pune, Maharashtra"	"North Indian, Chinese"	150	50				30
+ID7412	Delhi Cantt.	"North Indian, Chinese, Rolls"	150	50	4.8	326	234	30
+ID8503	"Yerawada, Pune, Maharashtra"	"Bengali, Fast Food"	300	50	3.5	90	45	45
+ID8382	"FTI College, Law College Road, Pune"	"North Indian, Street Food"	200	50	3.9	175	59	45
+ID5921	"FTI College, Law College Road, Pune"	North Indian	150	50	3.1	4		30
+ID463	"Rmz Centennial, I Gate, Whitefield"	"Ice Cream, Desserts"	200	50	4.1			30
+ID1460	"Babarpur, New Delhi, Delhi"	Mithai	100	50	3.3	15	7	30
+ID4202	"Dockyard Road, Mumbai CST Area"	"Parsi, Bakery"	200	50	4.0	4335	2363	30
+ID975	Mumbai Central	"Japanese, Sushi"	400	50	3.6	163	72	45
+ID8359	"Sector 1, Noida"	"North Indian, Chinese"	550	50	3.4	53	24	30
+ID6548	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Beverages, Desserts, Ice Cream"	150	50	2.9	6	2	45
+ID2002	Delhi Cantt.	Rolls	50	50	3.1	6	2	30
+ID7261	Mumbai Central	"North Indian, South Indian, Chinese, Fast Food"	350	50	3.0	19	5	45
+ID7696	"Rmz Centennial, I Gate, Whitefield"	"North Indian, Chinese"	150	99	3.9	216	115	45
+ID4095	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"North Indian, Chinese"	200	50	3.7	45	12	45
+ID5986	"Nathan Road, Mangaldas Road, Pune"	"North Indian, Chinese"	200	50	3.8	302	138	45
+ID7172	"Tejas Nagar Colony, Wadala West, Mumbai"	North Indian	150	50	2.8	16	8	45
+ID2780	"Dockyard Road, Mumbai CST Area"	"Fast Food, Chinese"	200	50	3.1	76	36	45
+ID6441	Delhi UniversityGTB Nagar	Street Food	100	50	3.1	4	1	30
+ID2164	Pune University	"Ice Cream, Fast Food, Beverages"	150	50	NEW			30
+ID2053	Pune University	South Indian	150	50	3.6	87	45	45
+ID1172	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	Cafe	200	50	3.3	9	1	30
+ID3499	"Tiretti, Kolkata"	"Chinese, Fast Food"	100	50	3.2	12	7	30
+ID62	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Chinese, Fast Food, North Indian, Mughlai"	300	50	3.4	298	175	65
+ID5414	"Rmz Centennial, I Gate, Whitefield"	Desserts	150	50	3.6	18	3	45
+ID7309	"Dockyard Road, Mumbai CST Area"	"Fast Food, Street Food, Beverages"	150	50	3.7	77	39	45
+ID1639	"Raja Bazar, Kolkata"	"Fast Food, American"	150	50	3.5	101	53	45
+ID3106	Mumbai Central	"Fast Food, Mughlai"	100	50	3.9	116	66	45
+ID2617	Pune University	"Fast Food, Biryani, Beverages"	200	50				30
+ID2041	"Yerawada, Pune, Maharashtra"	"Italian, Pizza, Salad, Healthy Food, Mexican, Cafe, Desserts, Continental"	650	50	4.4	3248	1603	45
+ID2673	"Sector 1, Noida"	"Chinese, North Indian"	200	50	3.6	125	29	30
+ID7912	Delhi UniversityGTB Nagar	"Pizza, Beverages"	350	50	3.3	11	6	30
+ID3779	"Tiretti, Kolkata"	"Beverages, Juices, Fast Food"	100	50	3.6	31	15	30
+ID3683	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	North Indian	150	50	3.0	4	1	30
+ID4508	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Chinese, North Indian"	150	50	3.1	192	50	45
+ID4878	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Cafe, Continental, Italian"	400	50	4.2	2828	1443	45
+ID2802	"DBlock, Sector 63, Noida"	"Bakery, Desserts"	150	50	3.2	6	4	30
+ID2814	"Delhi High Court, India Gate"	"Japanese, Sushi, Asian"	800	50	4.2	721	390	45
+ID188	"Panjetan Colony, Malakpet, Hyderabad"	"North Indian, Mughlai"	150	50	3.3	4	2	30
+ID4614	"DBlock, Sector 63, Noida"	"North Indian, Mughlai"	200	50	3.7	66	42	30
+ID7647	"DBlock, Sector 63, Noida"	"Chinese, Fast Food, Momos"	150	50				30
+ID5499	"Sector 3, Marathalli"	"North Indian, South Indian, Chinese, Bengali, Odia, Biryani, Beverages"	150	50	3.5	45	29	45
+ID7594	Mumbai Central	Burger	200	50	NEW			30
+ID6436	"MG Road, Pune"	South Indian	150	50	3.9	219	108	30
+ID4298	Mumbai Central	"Salad, Beverages, Healthy Food, Desserts"	200	50	3.5	36	24	65
+ID7158	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Ice Cream, Cafe, Pizza, Burger, Beverages"	200	50	4.5	2805	1457	45
+ID7750	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Asian, Biryani, North Indian, Desserts"	200	50	4.1	37	30	45
+ID7397	"Sector 63A,Gurgaon"	"Continental, Burger, Wraps, Beverages"	150	50	4.0	34	27	30
+ID5574	Delhi UniversityGTB Nagar	"Fast Food, Chinese"	150	50	NEW			30
+ID4635	"FTI College, Law College Road, Pune"	Street Food	100	50	NEW			30
+ID6659	"Jaya Nagar, Saidabad, Hyderabad"	Chinese	100	50				30
+ID621	"Sector 63A,Gurgaon"	"Mithai, Street Food, Chinese"	150	50	3.3	35	16	65
+ID7260	Majestic	"North Indian, Mughlai"	150	50	NEW			30
+ID5602	"Sector 1, Noida"	"North Indian, Chinese"	250	50	2.8	27	11	30
+ID7252	"Rmz Centennial, I Gate, Whitefield"	"Tamil, Biryani, South Indian, Chettinad, North Indian, Chinese"	250	50	3.9	163	112	30
+ID2879	"Sandhurst Road, Mumbai CST Area"	"South Indian, North Indian, Fast Food"	200	50	3.7	182	107	45
+ID2637	Majestic	"Chinese, North Indian, Street Food"	150	50	NEW			30
+ID6278	"Nathan Road, Mangaldas Road, Pune"	"Chinese, Cantonese"	"1,000"	50	4.7	441	259	30
+ID4625	"Delhi Administration Flats, Timarpur"	"North Eastern, Momos, Fast Food, Beverages, Tibetan"	100	50	2.9			30
+ID3176	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Fast Food, Chinese"	150	50	3.5	26	6	30
+ID6778	Pune University	Street Food	100	50				30
+ID6312	"MG Road, Pune"	"Maharashtrian, South Indian, Chinese"	150	50	3.3	12	7	30
+ID6002	"DBlock, Sector 63, Noida"	Bakery	50	50	3.2	11	1	30
+ID3655	"Dockyard Road, Mumbai CST Area"	Mithai	100	99	3.9	60	15	45
+ID3288	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"North Indian, South Indian, Fast Food"	100	50				30
+ID6406	"Raja Bazar, Kolkata"	"Biryani, Mughlai"	100	50	3.6	353	53	30
+ID1059	"Sector 3, Marathalli"	"Chinese, North Indian"	100	50				30
+ID8302	"Babarpur, New Delhi, Delhi"	"North Indian, Rolls"	100	50	3.6	27	12	30
+ID6710	"Sector 1, Noida"	"Pizza, Fast Food"	150	50	3.7	43	9	30
+ID731	"Raja Bazar, Kolkata"	Bengali	150	50				30
+ID2132	Mumbai Central	Fast Food	100	50	3.3	10	4	30
+ID3491	"Sector 3, Marathalli"	"Chinese, Thai"	200	50	3.5	13	9	30
+ID6264	"DBlock, Sector 63, Noida"	"North Indian, Chinese, Mughlai"	300	50	3.4	47	25	30
+ID437	"Babarpur, New Delhi, Delhi"	"North Indian, Fast Food"	100	50	3.3	10		30
+ID6300	"Sector 3, Marathalli"	"Mithai, Street Food"	150	50	3.4	13	1	30
+ID7465	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Tibetan, Chinese, Momos"	250	50	4.2	633	269	45
+ID1148	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Fast Food, Burger"	150	50	3.5	23	6	30
+ID8026	"Nathan Road, Mangaldas Road, Pune"	"Street Food, Fast Food, Beverages"	150	50	3.4	13	10	45
+ID462	Mumbai Central	Bakery	300	50	3.8	77	52	30
+ID2237	"Sector 1, Noida"	"North Indian, Chinese"	300	50				30
+ID7266	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"North Indian, Fast Food, Chinese"	200	50	NEW			30
+ID1209	"Moulali, Kolkata"	"Cafe, Desserts"	300	50	3.6	54	34	30
+ID3624	Delhi UniversityGTB Nagar	"Cafe, Fast Food"	200	50				30
+ID376	"DBlock, Sector 63, Noida"	"Andhra, Hyderabadi, Biryani, South Indian, North Indian, Rolls, Mughlai"	200	50	3.7	112	41	30
+ID3209	"Sector 1, Noida"	"Fast Food, Healthy Food"	100	50	NEW			10
+ID6128	Majestic	"North Indian, Chinese"	150	50				30
+ID2947	"Sector 1, Noida"	"North Indian, Chinese, Mughlai"	250	50	3.6	76	38	30
+ID911	"Sector 14, Noida"	Biryani	100	50	NEW			30
+ID3342	"DBlock, Sector 63, Noida"	"North Indian, Chinese"	200	50				65
+ID1427	"MG Road, Pune"	"Italian, Fast Food"	200	50	3.7	101	29	45
+ID534	"Sector 63A,Gurgaon"	North Indian	150	50	4.1	144	33	30
+ID5511	"Mico Layout, Stage 2, BTM Layout,Bangalore"	North Indian	100	50	3.5	49	7	30
+ID5405	"Sector 1, Noida"	"Desserts, Bakery"	150	50	3.5	20	16	30
+ID1004	Mumbai Central	"Fast Food, Sandwich"	100	50	3.0	4	1	30
+ID6107	"Dockyard Road, Mumbai CST Area"	"Italian, Lebanese, North Indian"	150	50	3.2	15	7	30
+ID7260	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"North Indian, Mughlai, Beverages"	150	50				30
+ID4625	"Babarpur, New Delhi, Delhi"	"North Eastern, Momos, Fast Food, Beverages, Tibetan"	100	50	2.9			30
+ID4593	"Dockyard Road, Mumbai CST Area"	"Chinese, Mughlai, North Indian, Seafood, Biryani"	200	50	3.8	426	196	45
+ID4031	"FTI College, Law College Road, Pune"	Ice Cream	100	50	4.0	61	40	30
+ID6013	"Raja Bazar, Kolkata"	"Cafe, Spanish, Italian, Mexican, Salad, Juices"	250	50	4.1	1307	794	45
+ID2862	"MG Road, Pune"	Salad	150	50	3.7	26	10	30
+ID6448	"Nathan Road, Mangaldas Road, Pune"	"Chinese, North Indian, Mughlai"	250	50	3.1	9	1	30
+ID3752	"Sector 3, Marathalli"	"North Indian, South Indian"	200	99	3.2	7	2	65
+ID4189	"Chandni Chowk, Kolkata"	"South Indian, Fast Food"	100	50				30
+ID826	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Chinese, Sushi, Asian, Thai"	650	50	4.4	925	589	30
+ID7754	"Rmz Centennial, I Gate, Whitefield"	"South Indian, North Indian, Chinese"	150	50	3.3	24	8	30
+ID1429	"Babarpur, New Delhi, Delhi"	"North Indian, Rolls, Lebanese"	250	50	3.4	40	7	45
+ID342	"MG Road, Pune"	South Indian	100	50	3.6	33	8	30
+ID7497	"MG Road, Pune"	Maharashtrian	100	0	3.3	12	1	30
+ID7057	"Sandhurst Road, Mumbai CST Area"	"North Indian, Chinese"	300	0	3.6	102	48	45
+ID5097	"Dockyard Road, Mumbai CST Area"	"Chinese, North Indian"	150	50	3.7	53	18	30
+ID744	"Dockyard Road, Mumbai CST Area"	"North Indian, South Indian, Chinese"	200	50	3.4	47	6	65
+ID3755	"Delhi Administration Flats, Timarpur"	"Continental, Pizza, Italian"	250	50	3.9	297	145	45
+ID4202	"Sandhurst Road, Mumbai CST Area"	"Parsi, Bakery"	200	50	4.0	4335	2363	30
+ID7319	"Delhi High Court, India Gate"	"North Indian, Chinese, Fast Food"	600	50	3.9	750	536	30
+ID5592	Majestic	Beverages	100	50	3.6	11	4	45
+ID6055	Mumbai Central	Fast Food	100	50	3.8	110	53	30
+ID5299	"DBlock, Sector 63, Noida"	"Fast Food, Pizza, North Indian, Momos"	200	50	4.1	479	247	45
+ID4237	"Sector 1, Noida"	North Indian	100	50	3.3	15	1	30
+ID5908	"Sector 14, Noida"	North Indian	200	50	2.4	19	11	30
+ID7532	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Bakery, Desserts, Mithai"	200	50				30
+ID1637	Majestic	Fast Food	150	50	3.8	112	37	45
+ID3921	"DBlock, Sector 63, Noida"	"Mughlai, North Indian, Kebab, Rolls"	350	50	3.6	67	11	30
+ID8013	Majestic	"North Indian, Chinese"	350	50	3.6	34	18	30
+ID7271	"Panjetan Colony, Malakpet, Hyderabad"	South Indian	50	50	3.1	98	10	30
+ID7269	"Mico Layout, Stage 2, BTM Layout,Bangalore"	North Indian	100	50	4.2	236	72	45
+ID8281	"Nathan Road, Mangaldas Road, Pune"	"Street Food, Fast Food, North Indian"	150	50	2.9	8	5	45
+ID5063	Delhi UniversityGTB Nagar	"Bakery, Desserts, Fast Food"	200	50	3.5	32	10	30
+ID7501	Delhi UniversityGTB Nagar	"North Indian, South Indian"	200	50	2.9	4	3	30
+ID1555	"Delhi Administration Flats, Timarpur"	"North Indian, Continental, Chinese, Juices"	100	50	3.4	25	20	30
+ID2301	Mumbai Central	"Pizza, Fast Food"	200	0	3.6	277	89	30
+ID465	"Babarpur, New Delhi, Delhi"	North Indian	250	50	3.1	5		30
+ID8478	Mumbai Central	Chinese	200	50	3.4	25	17	30
+ID7301	"Sector 14, Noida"	"North Indian, Chinese, South Indian, Fast Food"	200	50	2.6	123	49	45
+ID4152	"FTI College, Law College Road, Pune"	"Fast Food, Beverages"	100	50	NEW			45
+ID4850	"Sector 3, Marathalli"	"Arabian, North Indian, Biryani, Chinese, Seafood"	350	50	2.9	839	245	45
+ID7067	"Noorkhan Bazaar, Malakpet, Hyderabad"	South Indian	100	50	3.5	237	2	45
+ID4124	"Sandhurst Road, Mumbai CST Area"	Desserts	100	50				30
+ID1543	"Sector 3, Marathalli"	"North Indian, Chinese"	100	50	3.4	29	23	65
+ID1153	"Delhi Administration Flats, Timarpur"	"Burger, Fast Food"	150	50	3.6	374	87	45
+ID2292	"Sector 1, Noida"	"Fast Food, Pizza"	200	50	3.3	32	3	45
+ID6000	"Nathan Road, Mangaldas Road, Pune"	North Indian	100	50				30
+ID2718	"MG Road, Pune"	"North Indian, Chinese, Seafood"	500	99	3.1	46	32	30
+ID6711	"Sector 1, Noida"	"South Indian, Chinese"	100	50	2.9	43	15	30
+ID4406	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"North Indian, Sandwich, Desserts, Beverages, Continental, Chinese, Biryani, Mughlai"	200	50	3.9	59	31	30
+ID3969	Mumbai Central	"Beverages, Desserts, Ice Cream"	200	99	3.7	246	83	30
+ID4393	"Sector 14, Noida"	"Mughlai, North Indian"	150	50	3.6	36	12	30
+ID2172	"Delhi High Court, India Gate"	"North Indian, Mughlai, Chinese"	200	50	3.6	87	28	65
+ID7644	"Sector 1, Noida"	"Chinese, North Indian"	250	99				45
+ID8275	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"South Indian, Chinese"	100	50	4.0	62	32	30
+ID7115	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"South Indian, North Indian, Chinese, Biryani"	300	50	4.0	201	54	45
+ID4793	"Dockyard Road, Mumbai CST Area"	Sandwich	100	50	3.5	44	4	45
+ID2034	"Tiretti, Kolkata"	"Biryani, Fast Food"	100	50	3.4	15	4	30
+ID8367	"DBlock, Sector 63, Noida"	"North Indian, Chinese"	200	50	3.0	129	42	65
+ID4997	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"North Indian, Mughlai"	200	99	3.2	37	7	65
+ID3755	Delhi UniversityGTB Nagar	"Continental, Pizza, Italian"	250	50	3.9	297	145	45
+ID6027	"MG Road, Pune"	Fast Food	150	50				30
+ID383	Pune University	"Fast Food, Healthy Food"	250	50	4.7	707	453	30
+ID5663	Delhi Cantt.	"Fast Food, Chinese"	100	50	3.7	62	22	30
+ID7564	"FTI College, Law College Road, Pune"	"Biryani, North Indian"	150	50	NEW			30
+ID3157	"Rmz Centennial, I Gate, Whitefield"	North Indian	150	50				30
+ID1475	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Cafe, Tea, Street Food"	200	50	4.3	534	318	30
+ID4039	"DBlock, Sector 63, Noida"	"Chinese, Thai"	200	99	4.1	258	99	45
+ID2426	"Babarpur, New Delhi, Delhi"	Fast Food	100	50				30
+ID4881	"Mico Layout, Stage 2, BTM Layout,Bangalore"	Juices	50	50	3.2	5	2	30
+ID939	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Biryani, North Indian, Chinese, Andhra, South Indian"	300	50	4.3	313	205	30
+ID5708	"Sector 63A,Gurgaon"	"Pizza, Fast Food"	300	50	3.7	530	165	45
+ID1947	"FTI College, Law College Road, Pune"	"Bar Food, North Indian, Italian, Continental"	550	50	4.3	3394	1845	30
+ID4345	"Sandhurst Road, Mumbai CST Area"	"North Indian, Chinese, Italian, Finger Food, American"	800	99	4.4	1102	766	30
+ID5984	Delhi Cantt.	North Indian	100	50	2.9	37	16	30
+ID3182	"Rmz Centennial, I Gate, Whitefield"	"Biryani, Mughlai, North Indian, Chinese"	200	50	3.1	25	9	30
+ID4379	"Rmz Centennial, I Gate, Whitefield"	"Fast Food, Biryani, North Indian"	200	50				30
+ID8089	"Yerawada, Pune, Maharashtra"	"North Indian, Chinese, Thai, European, Italian"	650	50	3.6	186	114	30
+ID4120	"Yerawada, Pune, Maharashtra"	"Konkan, Maharashtrian"	150	50	3.0	6	3	30
+ID2083	"Chatta Bazaar, Malakpet, Hyderabad"	"Cafe, Beverages, Fast Food, Desserts"	250	50	3.5	158	44	65
+ID4065	"Chandni Chowk, Kolkata"	Cafe	100	50				30
+ID7341	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Odia, Bengali, Salad, North Indian"	100	50	3.8	51	34	30
+ID911	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	Biryani	200	50	NEW			30
+ID6086	Delhi Cantt.	South Indian	100	99	3.5	150	15	45
+ID1796	"Delhi High Court, India Gate"	"Cafe, Beverages, Bakery"	200	50	3.7	126	51	30
+ID7915	"Sector 1, Noida"	"Italian, Pizza, Burger"	200	50	3.8	78	44	30
+ID7295	"Noorkhan Bazaar, Malakpet, Hyderabad"	"Bakery, Desserts, Ice Cream"	150	50	3.9	76	22	45
+ID7969	"Sector 1, Noida"	"North Indian, Chinese"	150	50	3.3	16	10	65
+ID5222	"Delhi Administration Flats, Timarpur"	North Indian	100	50	NEW			30
+ID8023	"Delhi Administration Flats, Timarpur"	"North Indian, Fast Food"	200	50	3.7	575	104	45
+ID8450	"MG Road, Pune"	Desserts	150	50	4.2	192	110	30
+ID2407	"DBlock, Sector 63, Noida"	"North Indian, Chinese, Fast Food"	200	50	3.5	29	17	30
+ID5193	"MG Road, Pune"	"Desserts, Beverages"	100	50	4.0	157	83	30
+ID4885	Pune University	"Ice Cream, Desserts"	200	50	4.0	160	83	30
+ID4625	"Gora Bazar, Rajbari, North Dumdum, Kolkata"	"Fast Food, North Eastern, Momos"	100	50	2.7	6	5	30
+ID7913	Delhi Cantt.	Pizza	150	50	3.5	4	1	30
+ID7627	"Sector 14, Noida"	"North Indian, Chinese"	300	50	3.3	69	26	30
+ID969	"Sector 14, Noida"	Rolls	100	50	3.4	14	8	45
+ID188	"Sector 3, Marathalli"	"North Indian, Mughlai"	150	50	2.8			30
+ID4244	"Delhi Administration Flats, Timarpur"	Tibetan	100	50	4.0	126	53	30
+ID1862	"Delhi High Court, India Gate"	"North Indian, Chinese"	300	50	4.3	1141	478	30
+ID367	"FTI College, Law College Road, Pune"	Fast Food	100	99	3.3	12	1	30
+ID2063	"Sector 63A,Gurgaon"	"North Indian, Fast Food"	100	50	2.7	22	4	45
+ID4518	"FTI College, Law College Road, Pune"	"Fast Food, Sandwich"	150	50	4.0	107	32	30
+ID6699	"Raja Bazar, Kolkata"	Beverages	100	50	4.1	139	70	30
+ID4776	"Sandhurst Road, Mumbai CST Area"	Fast Food	100	50				30
+ID5461	"Sector 1, Noida"	Paan	50	50	NEW			30
+ID8595	"Sector 3, Marathalli"	Ice Cream	100	50				30
+ID444	"Sector 14, Noida"	North Indian	100	50	3.5	22	13	30
+ID921	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Biryani, North Indian"	200	50	3.8	58	45	20
+ID7134	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Biryani, Kebab"	100	50	3.7	14	3	30
+ID2973	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Street Food, North Indian, Mithai"	200	50	4.1	113	41	30
+ID18	"MG Road, Pune"	"Pizza, Italian, Beverages"	400	50	4.5	366	232	45
+ID7066	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Beverages, Desserts, Juices"	100	50	4.1	237	95	45
+ID1079	"Rmz Centennial, I Gate, Whitefield"	"North Indian, Continental, Asian, Pizza"	500	50	4.1	643	435	65
+ID7959	"Sector 14, Noida"	North Indian	200	99	3.4	37	14	30
+ID7080	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Juices, Beverages"	50	50	3.4	9	1	30
+ID6227	"DBlock, Sector 63, Noida"	Rolls	100	50	NEW			30
+ID6788	"FTI College, Law College Road, Pune"	South Indian	100	50	2.8	6	2	30
+ID1015	"Hyderabad Public School, Begumpet"	"Continental, Desserts, Beverages, Sandwich"	200	50	3.2	19	10	30
+ID1966	"DBlock, Sector 63, Noida"	"North Indian, Chinese"	400	50	3.4	76	40	65
+ID1848	"Delhi High Court, India Gate"	"Desserts, Ice Cream"	200	50	4.0	65	39	30
+ID4973	"Nathan Road, Mangaldas Road, Pune"	"Salad, European, Steak, Healthy Food, Beverages, Finger Food"	550	50	4.2	1319	659	45
+ID7547	"FTI College, Law College Road, Pune"	"Ice Cream, Paan, Desserts"	150	50	3.9	50	26	30
+ID4674	Delhi Cantt.	"North Indian, Chinese"	250	50	3.5	179	53	45
+ID1270	"Sector 1, Noida"	"North Indian, South Indian"	150	50				30
+ID8012	"Mico Layout, Stage 2, BTM Layout,Bangalore"	Desserts	150	50	3.7			30
+ID2880	"Delhi Administration Flats, Timarpur"	"Chinese, Biryani"	150	50				30
+ID1432	Delhi UniversityGTB Nagar	"Cafe, Chinese, Italian"	300	99	4.1	803	554	45
+ID7377	Majestic	"Fast Food, Sandwich"	100	50	3.8	26	6	45
+ID8518	"DBlock, Sector 63, Noida"	"Wraps, Fast Food"	150	50				30
+ID4601	Mumbai Central	"Lebanese, North Indian, Mediterranean, Biryani, Rolls, Fast Food"	200	50	3.6	785	399	45
+ID1752	"Chandni Chowk, Kolkata"	"Street Food, Desserts"	100	50				30
+ID8657	"Delhi Administration Flats, Timarpur"	"Continental, Italian, North Indian, Chinese"	200	50	3.8	286	77	30
+ID8033	"Delhi High Court, India Gate"	"Continental, North Indian, Mughlai, Chinese, Italian"	300	50	4.0	267	165	30
+ID408	Pune University	"Biryani, North Indian, Maharashtrian"	150	50	NEW			30
+ID1140	"Delhi High Court, India Gate"	"American, Fast Food"	200	50	3.8	80	27	30
+ID1706	Delhi Cantt.	Chinese	150	50	3.1	4		30
+ID6776	"Babarpur, New Delhi, Delhi"	"North Indian, South Indian, Chinese"	200	50	3.4	27	10	30
+ID6003	"FTI College, Law College Road, Pune"	"Fast Food, Beverages"	100	50				30
+ID1016	"Tejas Nagar Colony, Wadala West, Mumbai"	Fast Food	150	50				30
+ID8460	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Mediterranean, European, Continental"	400	50	4.3	124	88	30
+ID2033	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"North Indian, Chinese"	200	50	3.4	17	4	45
+ID5847	"Sandhurst Road, Mumbai CST Area"	"Chinese, Mughlai"	250	50				30
+ID397	"Rmz Centennial, I Gate, Whitefield"	"Andhra, Biryani, Chinese"	150	50	NEW			30
+ID1353	"Sector 1, Noida"	Bakery	150	50	3.7	21	20	30
+ID3451	"Sector 14, Noida"	"Chinese, North Indian"	200	50	3.5	110	35	45
+ID195	"Dockyard Road, Mumbai CST Area"	"Mughlai, North Indian, Chinese, Seafood"	150	50	4.0	1210	503	45
+ID4672	"Moulali, Kolkata"	"Chinese, North Indian"	150	50	2.5	17	5	30
+ID8101	"Dockyard Road, Mumbai CST Area"	"Fast Food, Italian"	200	50	3.4	16	4	30
+ID5925	"Sector 3, Marathalli"	"North Indian, Fast Food"	200	50				30
+ID2083	"Musi Nagar, Malakpet, Hyderabad"	"Cafe, Beverages, Fast Food, Desserts"	250	50	3.5	158	44	65
+ID6296	"Babarpur, New Delhi, Delhi"	North Indian	150	50	3.4	18	8	30
+ID6954	"Sector 63A,Gurgaon"	Chinese	350	50	3.9	81	47	65
+ID6678	"Delhi High Court, India Gate"	Lebanese	100	50				30
+ID3146	"Sector 3, Marathalli"	"Biryani, Chinese, North Indian"	150	50	3.3	93	13	65
+ID1000	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Bohri, Biryani"	250	50	3.7	96	55	30
+ID7297	"Sector 1, Noida"	Bakery	150	99				45
+ID8522	"DBlock, Sector 63, Noida"	"Rolls, North Indian, Chinese"	200	50				30
+ID6738	"Chatta Bazaar, Malakpet, Hyderabad"	"South Indian, Beverages"	100	50	3.3	1097	57	45
+ID5899	"Babarpur, New Delhi, Delhi"	North Indian	150	50	3.6	16	4	65
+ID607	"FTI College, Law College Road, Pune"	"Bakery, Fast Food"	200	50	3.7	101	44	120
+ID7223	"Sector 14, Noida"	Bakery	150	50	3.7	79	12	30
+ID869	"DBlock, Sector 63, Noida"	"Biryani, Mughlai"	200	99	2.9	6	2	30
+ID3008	"MG Road, Pune"	"Continental, Beverages, Desserts, Fast Food"	500	50	4.1	1552	855	30
+ID2533	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"North Indian, Fast Food"	150	50	3.8	154	71	45
+ID3879	"Rmz Centennial, I Gate, Whitefield"	"North Indian, Bengali, Chinese, Odia"	200	50	2.6	19	11	30
+ID2851	"Dockyard Road, Mumbai CST Area"	"Juices, Beverages"	100	50	3.2	9	2	45
+ID6486	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Fast Food, Beverages"	50	50				30
+ID1165	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"North Indian, Kebab, Biryani"	500	99	4.2	671	301	65
+ID3372	"Musi Nagar, Malakpet, Hyderabad"	North Indian	100	50	NEW			30
+ID3605	Majestic	Burger	150	50	3.4	40	17	30
+ID6627	"Delhi Administration Flats, Timarpur"	"Beverages, Fast Food"	150	50	NEW			30
+ID366	"Yerawada, Pune, Maharashtra"	"Fast Food, Street Food, Beverages"	100	50	NEW			30
+ID2739	Majestic	Bakery	100	50				30
+ID203	"Delhi High Court, India Gate"	North Indian	100	50	3.3	20	11	30
+ID5893	"DBlock, Sector 63, Noida"	"North Indian, South Indian, Chinese, Desserts"	200	50	2.8	11	5	30
+ID689	Delhi UniversityGTB Nagar	"Pizza, Continental, Fast Food"	200	50	3.3	22	10	30
+ID3492	Delhi UniversityGTB Nagar	"Fast Food, Chinese"	150	50	NEW			30
+ID5947	"Dockyard Road, Mumbai CST Area"	"Rolls, Lebanese"	100	50	3.7	55	25	30
+ID8492	"FTI College, Law College Road, Pune"	"Cafe, Fast Food, Beverages"	200	50	3.7	31	17	30
+ID2629	Mumbai Central	"Fast Food, Pizza"	150	50	3.0	73	28	45
+ID4398	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Biryani, Mughlai, Kebab"	100	50	NEW			30
+ID1166	"Sector 1, Noida"	North Indian	300	50	4.7	81	74	45
+ID4536	Majestic	"Beverages, Ice Cream"	100	50				30
+ID5873	"Sector 14, Noida"	"North Indian, Afghan, Lebanese"	200	50	3.3	17	4	30
+ID3644	Delhi UniversityGTB Nagar	"Fast Food, Beverages"	200	50	3.3	9	4	30
+ID6575	"Delhi High Court, India Gate"	"North Indian, Chinese, Mughlai"	300	50	3.7	104	47	45
+ID241	Majestic	Fast Food	150	50	3.5	24	9	30
+ID2794	Majestic	"Beverages, Desserts, Ice Cream"	200	50	4.0	53	42	20
+ID2996	Majestic	"South Indian, Chinese"	100	50	3.4	9	1	30
+ID5393	"Moulali, Kolkata"	"South Indian, Continental, Fast Food"	300	99	3.9	232	105	65
+ID8610	"MG Road, Pune"	"North Indian, Asian, Biryani, Chinese"	400	50	4.0	648	305	30
+ID7170	"FTI College, Law College Road, Pune"	"European, Italian, Pizza, Fast Food"	200	50	NEW			30
+ID1487	Majestic	"Fast Food, Tea, Beverages"	100	50	4.1	124	48	45
+ID5241	"Babarpur, New Delhi, Delhi"	"Fast Food, Italian, Chinese, Desserts, Beverages"	200	50	3.7	228	94	45
+ID7014	"Nathan Road, Mangaldas Road, Pune"	"Chinese, North Indian, Maharashtrian"	250	50	3.3	47	23	30
+ID3325	Delhi UniversityGTB Nagar	Chinese	150	50	3.8	140	36	30
+ID3541	"Dockyard Road, Mumbai CST Area"	"Desserts, Ice Cream, Beverages"	150	50	3.8	100	13	45
+ID2991	"Gora Bazar, Rajbari, North Dumdum, Kolkata"	South Indian	100	50	3.7	75	16	30
+ID5380	"Sector 63A,Gurgaon"	"North Indian, Mithai, Fast Food, South Indian, Chinese"	200	50	4.0	1169	336	30
+ID5817	Delhi Cantt.	"Chinese, Momos"	150	50	3.9	1450	307	45
+ID135	Mumbai Central	"Ice Cream, Desserts"	100	50				30
+ID988	"MG Road, Pune"	"Chinese, North Indian, Mughlai"	350	50	3.9	2768	1369	30
+ID91	Delhi Cantt.	"Momos, Rolls"	100	50	3.6	52	11	30
+ID515	"Tiretti, Kolkata"	Fast Food	100	50	3.8	61	11	30
+ID5832	"DBlock, Sector 63, Noida"	"Chinese, South Indian, North Indian"	200	50	3.6	92	49	30
+ID6588	Mumbai Central	Fast Food	100	50	2.8	12	6	30
+ID7184	"Moulali, Kolkata"	"Fast Food, Healthy Food, Sandwich, Salad"	200	50	3.7	132	52	30
+ID2879	"Dockyard Road, Mumbai CST Area"	"South Indian, North Indian, Fast Food"	200	50	3.7	182	107	45
+ID8450	"Tejas Nagar Colony, Wadala West, Mumbai"	"Cafe, Desserts, Fast Food, Beverages"	200	0	4.3	102	76	30
+ID2977	"Noorkhan Bazaar, Malakpet, Hyderabad"	South Indian	150	99	4.1	1008	245	45
+ID1867	"Sector 14, Noida"	"North Indian, Chinese, Mughlai"	300	50	3.6	179	95	45
+ID4581	"Delhi High Court, India Gate"	"North Indian, Chinese, Street Food, Fast Food"	150	50	3.2	8	1	30
+ID8361	"Sector 1, Noida"	"Chinese, Fast Food"	200	50	3.4	66	4	30
+ID5383	"Rmz Centennial, I Gate, Whitefield"	"Biryani, Mughlai, Chinese, Seafood"	250	50				30
+ID5778	"MG Road, Pune"	"South Indian, Fast Food, North Indian"	200	50	3.7	68	26	30
+ID3930	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Mithai, Street Food"	100	50	NEW			45
+ID4420	"Babarpur, New Delhi, Delhi"	"North Indian, Mughlai"	100	50	3.4	14	8	30
+ID3163	"Hyderabad Public School, Begumpet"	"South Indian, Fast Food, Desserts"	150	50	3.8	892	70	45
+ID4691	"Sector 14, Noida"	"North Indian, Chinese"	200	50	NEW			30
+ID4625	"Moulali, Kolkata"	"Fast Food, North Eastern, Momos"	100	50				30
+ID7344	"Rmz Centennial, I Gate, Whitefield"	"Mughlai, North Indian, Rolls"	200	50	3.9	189	124	45
+ID7678	"FTI College, Law College Road, Pune"	"Asian, Continental, North Indian"	500	50	4.6	1507	1131	30
+ID694	"Sector 3, Marathalli"	"Ice Cream, Desserts, Beverages"	100	50	3.8	60	23	30
+ID6618	Delhi UniversityGTB Nagar	"Beverages, Fast Food, Ice Cream"	200	50	3.7	302	155	45
+ID3673	"FTI College, Law College Road, Pune"	Street Food	50	50	3.4	14		30
+ID2937	Mumbai Central	"Bakery, Desserts"	200	50	3.6	28	11	30
+ID5633	"Dockyard Road, Mumbai CST Area"	"Pizza, Fast Food"	200	99	4.3	110	76	45
+ID5371	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Mithai, North Indian"	200	50	3.3	26	2	30
+ID7880	"Nathan Road, Mangaldas Road, Pune"	"Cafe, Fast Food"	300	50	3.9	95	53	45
+ID3913	Majestic	Mangalorean	150	50	3.5	10		30
+ID4939	"Sandhurst Road, Mumbai CST Area"	"Fast Food, Italian, Chinese"	150	99	3.4	256	90	65
+ID2682	"Sector 1, Noida"	"North Indian, Chinese"	100	50	3.4	15	7	30
+ID5683	"DBlock, Sector 63, Noida"	"Pizza, Fast Food"	100	50	NEW			30
+ID3548	"FTI College, Law College Road, Pune"	"Ice Cream, Desserts, Fast Food"	150	50	4.2	542	366	30
+ID2772	"Sector 63A,Gurgaon"	"Chinese, Continental, Italian, Healthy Food, Asian, North Indian, Pizza, Desserts"	200	50	3.1	41	25	45
+ID4468	"Delhi Administration Flats, Timarpur"	"South Indian, Chinese"	150	50	3.7	177	30	30
+ID2872	"FTI College, Law College Road, Pune"	"North Indian, Chinese"	200	50	3.3	13	9	30
+ID4419	"Rmz Centennial, I Gate, Whitefield"	"North Indian, Mughlai, Chinese, Biryani, Rolls"	200	50	3.6	894	256	30
+ID6115	"Chatta Bazaar, Malakpet, Hyderabad"	"Biryani, North Indian, Chinese, Kebab"	200	50	4.0	157	17	30
+ID7302	"Yerawada, Pune, Maharashtra"	"Finger Food, Salad, Continental, Italian, Sandwich"	600	50	4.2	1392	739	45
+ID6249	Majestic	"Fast Food, Beverages"	150	50	3.1	17	9	30
+ID566	"Nathan Road, Mangaldas Road, Pune"	"Chinese, Biryani, North Indian"	200	50	3.4	29	11	30
+ID99	"Rmz Centennial, I Gate, Whitefield"	"South Indian, Street Food, Fast Food"	100	50	3.8	101	38	30
+ID4625	Majestic	"Fast Food, North Eastern, Momos"	100	50				30
+ID6030	"MG Road, Pune"	"Street Food, Fast Food, Beverages"	200	50	3.8	150	64	45
+ID4276	"Delhi High Court, India Gate"	"North Indian, Mughlai"	800	50	4.0	646	351	45
+ID2976	"Delhi Administration Flats, Timarpur"	"South Indian, North Indian, Chinese"	300	50	3.8	323	141	65
+ID2727	"Rmz Centennial, I Gate, Whitefield"	"Chinese, Thai, Continental"	150	99	3.8	56	15	30
+ID3871	Delhi UniversityGTB Nagar	North Indian	250	50	3.5	488	169	45
+ID2286	"Delhi Administration Flats, Timarpur"	"North Indian, Chinese"	200	50	4.3	250	121	30
+ID4627	Pune University	Street Food	100	50	4.0	31	23	30
+ID2595	"Sector 1, Noida"	"Bakery, Desserts"	150	50	3.3	7	1	30
+ID5708	"Delhi Administration Flats, Timarpur"	"Pizza, Fast Food"	400	50	3.8	630	240	30
+ID5791	"DBlock, Sector 63, Noida"	Bakery	250	50				65
+ID6982	Delhi UniversityGTB Nagar	South Indian	100	50	3.2	11		30
+ID692	"Sector 1, Noida"	"Italian, North Indian, Chinese"	800	50	4.1	903	556	45
+ID7497	"Nathan Road, Mangaldas Road, Pune"	Maharashtrian	100	0	3.3	12	1	30
+ID4658	"Sector 14, Noida"	"North Indian, Fast Food"	150	50	3.6	43	11	30
+ID4749	"Rmz Centennial, I Gate, Whitefield"	"Desserts, Ice Cream"	100	50	3.8	15	5	30
+ID5408	Mumbai Central	"North Indian, South Indian, Chinese, Beverages"	150	50				30
+ID4625	"Tiretti, Kolkata"	"Fast Food, North Eastern, Momos"	100	50				30
+ID7130	"Mico Layout, Stage 2, BTM Layout,Bangalore"	Biryani	150	50	3.4	9		30
+ID4587	"Delhi Administration Flats, Timarpur"	"North Indian, Street Food"	200	99	3.1	6	1	30
+ID6379	"Musi Nagar, Malakpet, Hyderabad"	"North Indian, Chinese"	100	50				30
+ID5083	"FTI College, Law College Road, Pune"	"Chinese, Fast Food"	100	50	3.1	4	2	30
+ID4247	"Mico Layout, Stage 2, BTM Layout,Bangalore"	Beverages	100	50	3.0	11	4	45
+ID4478	Delhi UniversityGTB Nagar	"Cafe, Italian, North Indian, Chinese"	400	50	4.0	387	220	45
+ID342	"FTI College, Law College Road, Pune"	South Indian	100	50	3.6	33	8	30
+ID3801	"Sector 14, Noida"	Bakery	150	99				65
+ID8343	Majestic	"South Indian, Chinese"	100	50	3.9	25	9	30
+ID1036	Delhi UniversityGTB Nagar	"North Indian, Thai, Goan, Mughlai, Seafood"	200	99	4.1			30
+ID4311	"Sector 63A,Gurgaon"	"North Indian, Mughlai, Kebab"	500	99	4.1	872	502	65
+ID1156	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Burger, Fast Food, Desserts, Beverages"	150	50				30
+ID5321	Delhi Cantt.	"Biryani, Hyderabadi, North Indian, Mughlai"	100	50	2.8			30
+ID5214	"Sector 3, Marathalli"	"North Indian, Chinese"	200	50	3.4	80	46	30
+ID3678	"Noorkhan Bazaar, Malakpet, Hyderabad"	South Indian	100	50	3.4	18	1	30
+ID4517	Delhi Cantt.	"North Indian, South Indian, Chinese"	300	50	NEW			30
+ID1605	Delhi UniversityGTB Nagar	"North Indian, Rolls"	250	50				30
+ID1175	"MG Road, Pune"	"Fast Food, Street Food, Beverages"	200	50	3.6	109	8	45
+ID7573	"Sandhurst Road, Mumbai CST Area"	"Desserts, South Indian"	200	50	4.5	127	80	30
+ID3806	Delhi UniversityGTB Nagar	North Indian	200	50	3.2	22	3	45
+ID5404	"Sector 1, Noida"	"Desserts, Bakery"	100	50				30
+ID8481	"Delhi High Court, India Gate"	"Chinese, Healthy Food"	200	50	3.9	649	351	45
+ID5136	"Delhi Administration Flats, Timarpur"	"Street Food, North Indian, Mithai, South Indian, Burger, Beverages"	150	50	4.0	298	66	30
+ID1881	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	North Indian	100	50	3.3	9	1	30
+ID5964	"Sandhurst Road, Mumbai CST Area"	North Indian	250	50	4.0	353	176	30
+ID2483	"Panjetan Colony, Malakpet, Hyderabad"	"Fast Food, North Indian, Biryani, Rolls, Wraps"	250	50	3.9	418	121	65
+ID5708	Pune University	"Pizza, Fast Food, Italian"	400	200	2.6	986	691	45
+ID3547	Mumbai Central	Desserts	100	50	4.0	168	102	65
+ID4292	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Arabian, North Indian, Mughlai, Chinese, Beverages, Desserts"	350	50	4.2	431	259	30
+ID3368	"Sector 3, Marathalli"	Kerala	100	50	3.8	50	18	30
+ID5176	"Delhi Administration Flats, Timarpur"	"South Indian, Fast Food, Mithai"	100	50	3.5	229	30	45
+ID7901	"Sector 14, Noida"	"North Indian, Chinese, Beverages"	600	50	4.3	857	621	65
+ID1368	"Yerawada, Pune, Maharashtra"	Bakery	200	50	4.2	242	94	80
+ID3884	"MG Road, Pune"	"Fast Food, Street Food"	100	50	3.4	18	7	30
+ID1872	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Chinese, North Indian, Fast Food"	350	50	3.4	29	12	65
+ID6132	"FTI College, Law College Road, Pune"	"North Indian, Chinese, Fast Food"	200	50	4.0	689	310	30
+ID3081	Delhi Cantt.	"North Indian, Chinese"	200	50	3.1	21	3	45
+ID8585	"Delhi Administration Flats, Timarpur"	"Bakery, Desserts, Fast Food"	200	50	3.1	8	2	45
+ID2125	"Rmz Centennial, I Gate, Whitefield"	"North Indian, Street Food, Chinese"	200	50	3.7	660	391	65
+ID4729	"Tejas Nagar Colony, Wadala West, Mumbai"	"North Indian, Italian, Continental, Finger Food"	500	50	3.9	268	142	45
+ID3768	"Tejas Nagar Colony, Wadala West, Mumbai"	Street Food	50	50	3.8			30
+ID7231	Delhi Cantt.	"North Indian, Chinese"	250	50	3.9	915	721	45
+ID3754	"Delhi Administration Flats, Timarpur"	"Fast Food, Desserts"	200	50	3.7	110	56	65
+ID1780	"Delhi Administration Flats, Timarpur"	Chinese	100	50	3.0	12	2	30
+ID2065	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"North Indian, Chinese, Arabian, Mughlai"	200	50	NEW			30
+ID1270	"Sector 14, Noida"	"North Indian, South Indian"	150	50				30
+ID8407	Mumbai Central	Desserts	150	50				30
+ID3117	"Raja Bazar, Kolkata"	"Mishti, Fast Food, South Indian"	100	50	4.0	381	89	65
+ID3777	"Sector 3, Marathalli"	"Beverages, Fast Food"	100	50	3.8	10	4	30
+ID8	"DBlock, Sector 63, Noida"	"Desserts, Fast Food"	200	50	3.9	334	189	45
+ID6066	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	North Indian	200	50	3.7	61	7	30
+ID1348	"DBlock, Sector 63, Noida"	"Bakery, Desserts"	200	50	4.4	214	169	65
+ID7042	Delhi Cantt.	"Chinese, Fast Food"	100	50				30
+ID8062	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Asian, Chinese, Continental, Italian"	350	50	4.3	249	139	30
+ID6815	"FTI College, Law College Road, Pune"	Maharashtrian	100	50	NEW			30
+ID5125	"Nathan Road, Mangaldas Road, Pune"	"Fast Food, Pizza, Desserts"	200	50	3.4	20	5	30
+ID8170	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	North Indian	200	50	3.4			30
+ID4945	"Tejas Nagar Colony, Wadala West, Mumbai"	"Street Food, Fast Food"	100	50	NEW			30
+ID6760	Delhi Cantt.	"North Indian, South Indian, Chinese, Street Food"	200	50	3.5	121	41	30
+ID1510	"Sector 63A,Gurgaon"	North Indian	200	50	3.1	4	1	30
+ID5773	"Nathan Road, Mangaldas Road, Pune"	Maharashtrian	150	50	NEW			45
+ID8254	"Sector 1, Noida"	"Ice Cream, Beverages"	100	50				30
+ID1190	Mumbai Central	"North Indian, Chinese, Mughlai, Maharashtrian"	250	50	3.2	74	36	30
+ID1140	"Rmz Centennial, I Gate, Whitefield"	"Burger, Fast Food, Beverages"	200	50	4.0	2037	1062	65
+ID1023	"Sector 14, Noida"	Bengali	200	50	NEW			30
+ID6765	"MG Road, Pune"	"Mithai, Gujarati"	150	50	3.4	19	10	30
+ID7858	"Nathan Road, Mangaldas Road, Pune"	"Continental, North Indian, Thai"	550	50	4.6	391	220	30
+ID5538	"Moulali, Kolkata"	"North Indian, Beverages"	100	50	2.7	7		30
+ID575	"Chandni Chowk, Kolkata"	"Biryani, North Indian"	100	50	3.1	7	2	30
+ID4301	Mumbai Central	Paan	50	50				30
+ID36	"Sector 63A,Gurgaon"	"Bakery, Fast Food"	250	50	2.7	5	3	120
+ID1402	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Chinese, Seafood, Biryani"	350	50	3.4	205	97	45
+ID6001	Delhi UniversityGTB Nagar	"North Indian, Chinese, Mughlai, Fast Food, Beverages"	250	0	4.0	1270	741	65
+ID1168	"Delhi Administration Flats, Timarpur"	"North Indian, Chinese, Italian, Fast Food"	550	50	4.1	897	565	45
+ID5968	"Sector 3, Marathalli"	"Biryani, Chinese, North Indian"	250	50	3.0	13	2	65
+ID3540	"FTI College, Law College Road, Pune"	"Fast Food, North Indian, Beverages"	200	50	4.0	421	165	45
+ID8529	"Delhi High Court, India Gate"	"Cafe, Fast Food"	300	50	4.5	1349	972	65
+ID7305	Mumbai Central	"North Indian, Chinese, Continental, Seafood"	400	99	3.9	239	98	65
+ID2646	Pune University	"Cafe, Chinese"	150	50	3.2	73	34	65
+ID3446	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Bengali, Seafood, Rolls"	250	50	3.7	318	187	45
+ID5187	Delhi UniversityGTB Nagar	"North Indian, Chinese"	200	50	3.3	9	2	30
+ID7633	"Sector 1, Noida"	Chinese	200	50	NEW			30
+ID350	"Delhi Administration Flats, Timarpur"	"North Indian, Chinese"	150	50	2.9	41	15	30
+ID7072	"Panjetan Colony, Malakpet, Hyderabad"	South Indian	150	50	3.3	9	3	30
+ID2772	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Chinese, Continental, Italian, Healthy Food, Asian, North Indian, Pizza, Desserts"	200	50	3.7	697	314	45
+ID8170	"FTI College, Law College Road, Pune"	"North Indian, Biryani, Kebab, BBQ"	200	50	3.5	21	9	30
+ID3775	Majestic	"Juices, Fast Food"	100	50	4.0	113	60	30
+ID8199	"Yerawada, Pune, Maharashtra"	"North Indian, Chinese"	150	50	3.7	59	21	30
+ID815	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Bakery, Sandwich, Desserts"	200	50	3.9	39	25	30
+ID1969	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Fast Food, Chinese"	100	50	3.6	17	4	30
+ID5384	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Burger, Sandwich, Finger Food, Beverages"	300	50	3.9	64	11	30
+ID7131	Delhi UniversityGTB Nagar	North Indian	250	50	NEW			30
+ID94	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	Biryani	150	50	3.5	64	15	30
+ID1701	"Delhi Administration Flats, Timarpur"	Chinese	250	50				30
+ID1784	"DBlock, Sector 63, Noida"	"Rolls, North Indian, Chinese, Momos, Biryani"	200	50	3.7	50	30	30
+ID349	"DBlock, Sector 63, Noida"	"North Indian, South Indian, Chinese"	150	99	3.0	318	64	65
+ID7481	"Delhi High Court, India Gate"	Thai	400	99	4.2	368	136	65
+ID4028	"Gora Bazar, Rajbari, North Dumdum, Kolkata"	"Bengali, Chinese"	100	50	3.0	13	5	30
+ID4372	Mumbai Central	"Desserts, Beverages"	100	50	3.2	4	2	30
+ID3065	Majestic	"Fast Food, Street Food, Juices"	100	50	3.6	646	214	45
+ID2944	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Biryani, North Indian"	150	50	3.3	7	3	30
+ID6705	"Sandhurst Road, Mumbai CST Area"	"North Indian, Chinese, South Indian, Fast Food, Street Food"	300	50	4.2	305	167	30
+ID3053	"Mico Layout, Stage 2, BTM Layout,Bangalore"	Mithai	100	50	3.1	8	1	30
+ID3929	"Delhi High Court, India Gate"	"Mithai, North Indian"	100	50	3.8	241	88	45
+ID429	"Chandni Chowk, Kolkata"	Street Food	150	50	4.1	260	123	45
+ID3565	"Sector 3, Marathalli"	"Biryani, Mughlai, Chinese, Arabian"	300	50	3.7	572	167	45
+ID2301	"Sector 1, Noida"	"Pizza, Fast Food"	200	0	3.7	684	97	30
+ID1249	"Yerawada, Pune, Maharashtra"	Fast Food	150	50	3.2	13	1	45
+ID1013	Majestic	"Desserts, Ice Cream"	100	50	3.3	5		30
+ID2268	"Delhi High Court, India Gate"	"North Indian, Chinese"	200	50	3.7	83	41	45
+ID6774	"Dockyard Road, Mumbai CST Area"	"Chinese, North Indian, Fast Food, Biryani"	150	50	2.8	4	3	30
+ID7836	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"South Indian, North Indian, Chinese, Fast Food"	150	50	3.2	14		65
+ID8549	"Babarpur, New Delhi, Delhi"	Street Food	50	50	3.4	16	5	30
+ID6236	"DBlock, Sector 63, Noida"	"Fast Food, Rolls"	150	99	3.5	49	27	65
+ID7082	"Musi Nagar, Malakpet, Hyderabad"	South Indian	150	50	3.8	385	20	45
+ID3363	"MG Road, Pune"	"North Indian, Maharashtrian"	200	50	3.8	189	47	30
+ID4578	"MG Road, Pune"	"South Indian, Street Food"	100	50	3.7	184	67	30
+ID2628	"DBlock, Sector 63, Noida"	"North Indian, Chinese"	200	50	3.7	40	35	30
+ID4625	"Sector 1, Noida"	"North Eastern, Momos, Fast Food, Beverages, Tibetan"	100	50	2.9	4	3	30
+ID2457	"Delhi Administration Flats, Timarpur"	"North Indian, Chinese, Continental, Italian"	600	50	4.2	910	572	45
+ID1784	Delhi Cantt.	"Chinese, North Indian, Rolls, Biryani, Momos"	200	50	3.9	992	513	45
+ID2133	"Jaya Nagar, Saidabad, Hyderabad"	South Indian	50	50	3.8	382	110	45
+ID1292	"Sector 14, Noida"	"Maharashtrian, Healthy Food"	100	50	3.4	8	5	30
+ID8544	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"South Indian, North Indian"	200	50	3.0	5		30
+ID2833	"Chatta Bazaar, Malakpet, Hyderabad"	Mithai	100	50	4.1	551	24	30
+ID6774	"Sandhurst Road, Mumbai CST Area"	"Chinese, North Indian, Fast Food, Biryani"	150	50	2.8	4	3	30
+ID4762	Mumbai Central	Mithai	100	50	3.2	40	17	30
+ID4034	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Biryani, North Indian, Mughlai, Kebab"	300	99	4.1	354	171	65
+ID2132	"Sandhurst Road, Mumbai CST Area"	Fast Food	100	50	3.3	10	4	30
+ID5779	"FTI College, Law College Road, Pune"	Fast Food	150	50	4.3	140	55	30
+ID7897	"Yerawada, Pune, Maharashtra"	"North Indian, Chinese"	150	50	3.9	656	183	45
+ID1366	"Mico Layout, Stage 2, BTM Layout,Bangalore"	Desserts	150	50	3.9	81	26	45
+ID4861	"Sector 63A,Gurgaon"	"North Indian, Mughlai"	350	50	3.8	179	84	45
+ID8495	Mumbai Central	"Continental, North Indian, Italian, Beverages, Desserts"	200	50	3.6	68	25	65
+ID4774	"Babarpur, New Delhi, Delhi"	"Fast Food, Pizza"	200	50	3.5	19	10	30
+ID6836	"MG Road, Pune"	"South Indian, Italian, Chinese"	150	50	3.6	111	61	30
+ID2615	Delhi Cantt.	"North Indian, Chinese"	200	50				30
+ID1925	"FTI College, Law College Road, Pune"	Fast Food	150	50	3.5	19	6	30
+ID6705	Mumbai Central	"North Indian, Chinese, South Indian, Fast Food, Street Food"	300	50	4.2	305	167	30
+ID427	Delhi UniversityGTB Nagar	"North Indian, Chinese"	100	50	3.4	207	107	45
+ID4585	Delhi UniversityGTB Nagar	"Mithai, Bakery, Fast Food"	100	50	4.0	389	252	30
+ID8506	"Dockyard Road, Mumbai CST Area"	"Fast Food, Street Food"	100	50	3.3	24	10	45
+ID4369	"FTI College, Law College Road, Pune"	"North Indian, Chinese"	400	99	3.7	263	120	65
+ID1074	"Dockyard Road, Mumbai CST Area"	"Mithai, Fast Food"	150	50	3.5	6	2	30
+ID714	"Nathan Road, Mangaldas Road, Pune"	"North Indian, Mughlai"	200	50	3.8	126	70	30
+ID5802	"Delhi Administration Flats, Timarpur"	"North Indian, Chinese"	350	50	3.6	397	119	45
+ID1899	"Sector 1, Noida"	"Street Food, Fast Food"	100	50	3.2	11	5	30
+ID2536	"Delhi Administration Flats, Timarpur"	"North Indian, Fast Food, Chinese, Continental"	500	50	3.8	90	60	45
+ID2102	"Delhi High Court, India Gate"	Mughlai	300	99	4.1	394	305	65
+ID2450	"Sector 1, Noida"	"Chinese, North Indian, Momos"	100	50	3.5	64	26	30
+ID2376	"Musi Nagar, Malakpet, Hyderabad"	South Indian	50	50	3.5	12	2	30
+ID2709	"Rmz Centennial, I Gate, Whitefield"	"North Indian, South Indian"	200	50	3.1	12	5	45
+ID1854	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"North Indian, Chinese"	200	50	3.5	13		30
+ID1796	"Sector 14, Noida"	"Cafe, Beverages, Bakery"	200	50	4.1	343	256	45
+ID7712	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Healthy Food, Beverages"	150	50	3.1	6	3	30
+ID4151	Majestic	"Desserts, Beverages"	150	50	4.0	119	60	30
+ID2166	"Sector 14, Noida"	Biryani	150	50	NEW			30
+ID5879	"Sector 1, Noida"	"North Indian, Mughlai, Kebab"	900	450	4.2	1262	758	65
+ID6313	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Fast Food, Chinese"	100	50	3.6	82	23	45
+ID4076	Delhi Cantt.	North Indian	100	50				30
+ID2906	"Sector 63A,Gurgaon"	"Desserts, Beverages, Ice Cream"	150	50				30
+ID6726	"Tejas Nagar Colony, Wadala West, Mumbai"	"North Indian, South Indian, Chinese"	200	50	3.8	521	258	30
+ID7564	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Biryani, North Indian"	150	50	NEW			30
+ID1276	Pune University	Cafe	150	50	4.0	337	199	30
+ID691	"Mico Layout, Stage 2, BTM Layout,Bangalore"	South Indian	100	50	3.1	12	1	30
+ID4365	"FTI College, Law College Road, Pune"	Desserts	100	50	4.6	400	189	45
+ID3233	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"North Indian, Chinese"	500	50	3.9	166	69	65
+ID18	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Pizza, Italian, Beverages"	350	50	4.3	497	287	30
+ID7959	"Sector 1, Noida"	North Indian	200	99	3.4	37	14	30
+ID7091	"Mico Layout, Stage 2, BTM Layout,Bangalore"	North Indian	100	50	2.9	307	62	45
+ID958	"Delhi Administration Flats, Timarpur"	"Beverages, Ice Cream"	150	50	3.5	8	3	30
+ID4784	"Mico Layout, Stage 2, BTM Layout,Bangalore"	Fast Food	100	0	3.4	8	2	30
+ID8512	"MG Road, Pune"	American	300	50	3.8	20	13	30
+ID1371	"Nathan Road, Mangaldas Road, Pune"	"Bakery, Desserts"	200	50	3.4	57	13	65
+ID2706	"Gora Bazar, Rajbari, North Dumdum, Kolkata"	"Fast Food, Chinese, BBQ"	150	50	3.5	43	11	30
+ID635	"Tiretti, Kolkata"	Mishti	50	99	4.4	1512	579	45
+ID2076	"Babarpur, New Delhi, Delhi"	North Indian	200	50	2.8	7	3	30
+ID1902	"DBlock, Sector 63, Noida"	"Chinese, Thai"	450	50	3.6	119	47	65
+ID8173	"Sandhurst Road, Mumbai CST Area"	"North Indian, Chinese, South Indian, Fast Food"	250	50	3.7	189	84	45
+ID4855	Delhi UniversityGTB Nagar	North Indian	150	50	3.4	43	11	30
+ID912	"Yerawada, Pune, Maharashtra"	Biryani	150	50	3.4	18	14	30
+ID6330	Delhi UniversityGTB Nagar	Pizza	150	50	3.3	32	1	30
+ID3556	"Hyderabad Public School, Begumpet"	South Indian	100	50	3.7			30
+ID2321	"Sector 1, Noida"	"North Indian, Chinese, Mughlai, Kebab"	750	99	4.2	580	455	45
+ID5290	"Rmz Centennial, I Gate, Whitefield"	"Fast Food, Rolls"	100	50				30
+ID6136	"Sector 1, Noida"	"Raw Meats, North Indian, Fast Food"	200	50	3.6	60	31	30
+ID773	"Sandhurst Road, Mumbai CST Area"	"Fast Food, Chinese"	100	50	3.1	6	2	30
+ID3970	"Sector 1, Noida"	"Burger, Fast Food"	200	50	2.7	564	131	45
+ID2718	"MG Road, Pune"	"North Indian, Chinese, Seafood"	500	50	3.1	46	32	30
+ID4790	Delhi UniversityGTB Nagar	"North Indian, Continental, Chinese, Italian, Lebanese, Momos"	400	50	3.9	793	513	45
+ID250	"Sector 1, Noida"	"Italian, Fast Food"	200	50	3.1	19	8	30
+ID1415	"Sector 1, Noida"	"Burger, Fast Food"	200	99	4.0	1155	845	65
+ID6415	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Salad, Rolls, Fast Food"	200	50	3.7	71	22	45
+ID1140	Delhi Cantt.	"American, Fast Food"	200	50	3.9	570	127	45
+ID3990	"Sector 14, Noida"	"North Indian, Mughlai"	150	50	2.8	38	12	65
+ID7554	"Sandhurst Road, Mumbai CST Area"	"Mughlai, Biryani, Afghan"	400	50	3.4	23	12	30
+ID7295	"Musi Nagar, Malakpet, Hyderabad"	"Bakery, Desserts, Ice Cream"	150	50	3.9	76	22	45
+ID3812	"Sector 3, Marathalli"	Lebanese	150	50				30
+ID4403	"Sector 1, Noida"	"North Indian, Chinese"	150	99	3.9	261	109	30
+ID1644	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Biryani, North Indian, Fast Food, Chinese"	200	50	3.5	41	18	30
+ID8091	"DBlock, Sector 63, Noida"	"Cafe, Italian, Chinese, Desserts"	400	50	4.0	1398	906	45
+ID7801	"Nathan Road, Mangaldas Road, Pune"	"Burger, Pizza, Fast Food"	200	0	3.3			30
+ID3474	"Sector 14, Noida"	"Fast Food, North Indian, Rolls, Chinese, Momos, Mughlai"	200	50	3.9	562	294	65
+ID89	"Sector 1, Noida"	"Biryani, North Indian"	150	50	3.1	4	1	30
+ID3056	"Mico Layout, Stage 2, BTM Layout,Bangalore"	Gujarati	100	50	3.8	35	11	30
+ID2341	Pune University	"Chinese, Seafood"	300	50	3.3	81	11	45
+ID8087	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Chinese, Thai, Asian, Malaysian, Vietnamese, Sri Lankan, Burmese"	600	99	4.2	3782	1948	30
+ID4360	"Nathan Road, Mangaldas Road, Pune"	"Italian, Mexican, Pizza, Salad, Beverages"	600	50	4.2	1114	453	45
+ID8363	Delhi UniversityGTB Nagar	Street Food	100	50	3.3	11	2	30
+ID6444	"Rmz Centennial, I Gate, Whitefield"	"Street Food, Fast Food"	100	50	3.8	280	76	45
+ID6237	Delhi Cantt.	Rolls	100	50	3.2	10		30
+ID1877	"Rmz Centennial, I Gate, Whitefield"	"Ice Cream, Desserts"	150	50	4.5	1118	465	30
+ID2946	"Chandni Chowk, Kolkata"	"Street Food, Chinese, North Indian, Fast Food"	200	50	3.8	262	143	45
+ID6832	"Tiretti, Kolkata"	Mishti	150	50				30
+ID5538	"Yerawada, Pune, Maharashtra"	"North Indian, Beverages"	100	0				30
+ID6218	"Yerawada, Pune, Maharashtra"	"Rolls, Fast Food"	150	50	4.5	425	258	45
+ID2763	"Yerawada, Pune, Maharashtra"	"Salad, Sandwich, Momos, Wraps, Beverages"	200	50	3.0	5	2	30
+ID5765	Delhi UniversityGTB Nagar	"North Indian, Fast Food, Beverages"	200	50	3.4	22	3	30
+ID5996	"FTI College, Law College Road, Pune"	"Seafood, North Indian, Chinese, Thai"	400	50	3.8	203	107	30
+ID6058	"MG Road, Pune"	Bakery	100	50	3.2	45	11	30
+ID4673	"Hyderabad Public School, Begumpet"	"South Indian, North Indian, Chinese, Beverages"	200	50	2.5	71	34	45
+ID6200	Delhi UniversityGTB Nagar	"North Indian, Chinese, Rolls"	200	50	3.6	75	31	30
+ID1608	"Delhi Administration Flats, Timarpur"	"North Indian, Chinese, Fast Food"	200	50	3.8	88	25	30
+ID5554	"Musi Nagar, Malakpet, Hyderabad"	North Indian	100	99	3.5	266	25	65
+ID2537	"Babarpur, New Delhi, Delhi"	North Indian	200	50				30
+ID699	"Dockyard Road, Mumbai CST Area"	"Biryani, Chinese, Fast Food, Beverages, North Indian, Mughlai, Seafood"	350	50	3.7	269	127	45
+ID2721	"FTI College, Law College Road, Pune"	"Fast Food, Biryani"	200	50	3.3	11	7	30
+ID549	"Sector 14, Noida"	"North Indian, Chinese, Pizza, Rolls, Bakery, Beverages, Mithai"	150	50	3.6	348	139	45
+ID1770	"Sector 1, Noida"	"Mithai, Fast Food"	100	99	3.0	60	9	45
+ID4129	"Babarpur, New Delhi, Delhi"	North Indian	150	50	NEW			30
+ID4954	"FTI College, Law College Road, Pune"	"North Indian, Street Food"	200	50	3.2	125	42	30
+ID2593	"Sector 1, Noida"	Bakery	200	50	3.0	49	23	30
+ID275	"DBlock, Sector 63, Noida"	"North Indian, Mughlai"	250	50	3.3	14	5	30
+ID6915	Majestic	"European, Italian, American, Salad"	650	50	4.6	2858	1673	30
+ID7229	"Delhi Administration Flats, Timarpur"	"Healthy Food, Fast Food"	150	50	3.5	49	9	45
+ID1170	Delhi UniversityGTB Nagar	"Italian, Continental"	400	99	3.4	130	55	45
+ID6392	"FTI College, Law College Road, Pune"	"North Indian, Chinese, Goan"	150	50	NEW			30
+ID2402	Majestic	"Healthy Food, North Indian, Biryani, Continental, Beverages"	200	50	4.2	476	105	30
+ID5446	Mumbai Central	Desserts	100	50	3.3	19	4	30
+ID6795	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Mithai, Street Food"	100	50	3.2	9	3	30
+ID6649	"Delhi High Court, India Gate"	Chinese	150	50	3.6	48	20	30
+ID4428	"DBlock, Sector 63, Noida"	North Indian	100	50	3.6	221	76	45
+ID2743	"Nathan Road, Mangaldas Road, Pune"	"North Indian, Chinese"	350	50	3.6	124	56	45
+ID4329	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	North Indian	150	50	3.2	6	2	45
+ID847	"Hyderabad Public School, Begumpet"	"North Indian, Street Food, South Indian, Mithai"	300	99	4.2	3021	1174	65
+ID6080	Majestic	"Rajasthani, North Indian"	600	50	4.3	860	484	65
+ID1588	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Pizza, Italian"	300	50	4.0	338	152	30
+ID7260	"Tiretti, Kolkata"	"North Indian, Mughlai"	150	50	2.8	7	3	30
+ID983	"MG Road, Pune"	Chinese	100	50				30
+ID2853	"Tiretti, Kolkata"	"Mishti, Street Food, South Indian"	100	50	3.5	77	35	30
+ID1092	"Sector 1, Noida"	"North Indian, Chinese, Rolls, Desserts, Biryani"	200	50	3.3	68	35	65
+ID291	"Babarpur, New Delhi, Delhi"	Fast Food	150	50	3.5	22	7	30
+ID4215	"Sector 3, Marathalli"	"Fast Food, Chinese, North Indian"	150	50				30
+ID8515	"DBlock, Sector 63, Noida"	"Chinese, Rolls, Wraps"	150	50	3.5	17	5	30
+ID2348	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Italian, Continental, Fast Food"	250	50	4.1	87	48	30
+ID6952	"Sector 1, Noida"	"Pizza, Salad, Burger, Sandwich, Lebanese, Italian"	150	50	4.4	315	248	30
+ID6425	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Continental, Finger Food, Seafood, Pizza"	500	50	4.0	588	236	65
+ID653	"Sector 63A,Gurgaon"	"Bengali, North Indian"	400	50	4.0	381	204	45
+ID5879	"Sector 14, Noida"	"North Indian, Mughlai, Kebab"	900	450	4.2	1262	758	65
+ID596	"Laxman Vihar Industrial Area, Sector 3A, Gurgoan"	"Bakery, Desserts, Fast Food"	250	99	3.8	27	23	120
+ID4016	"FTI College, Law College Road, Pune"	"Ice Cream, Desserts"	100	50	3.6	60	30	30
+ID3023	"Delhi High Court, India Gate"	"North Indian, Italian, Continental"	200	50	3.0	4		30
+ID7285	"Mico Layout, Stage 2, BTM Layout,Bangalore"	"Andhra, North Indian, Chinese"	300	50	3.6	173	85	65
+ID5429	"DBlock, Sector 63, Noida"	"Chinese, Momos"	250	50	NEW			30
+ID6261	"Sector 14, Noida"	"North Indian, Chinese, Rolls, Momos"	150	50	4.1	318	235	65
+ID825	"Sector 14, Noida"	"Chinese, Sushi, Thai, PokŽ, Asian"	400	50	4.1	51	38	30
+ID3495	"DBlock, Sector 63, Noida"	Fast Food	100	50	4.0	394	207	45
+ID7548	Majestic	Paan	150	50	3.9	22	13	30
+ID4886	Pune University	Fast Food	200	50				30
+ID2483	Pune University	"Wraps, North Indian, Biryani, Fast Food"	250	50	4.0	170	62	65
+ID345	"Babarpur, New Delhi, Delhi"	North Indian	50	50	NEW			30
+ID5121	Pune University	North Indian	150	50	3.0	6	1	30
+ID5506	"FTI College, Law College Road, Pune"	Street Food	100	50	3.9	143	33	45
+ID4147	"DBlock, Sector 63, Noida"	"North Indian, Chinese, South Indian"	200	50	3.1	7		30
+ID7271	"Chatta Bazaar, Malakpet, Hyderabad"	South Indian	50	50	3.1	98	10	30
+ID8328	"FTI College, Law College Road, Pune"	Fast Food	200	50	3.9	391	159	30
+ID1769	"Babarpur, New Delhi, Delhi"	Street Food	50	50	3.5	23	5	30
+ID5652	"Sector 14, Noida"	"North Indian, Mughlai, Kebab"	550	99	3.7	1072	609	45
+ID1233	"MG Road, Pune"	"North Indian, Fast Food"	200	50	4.0	109	
